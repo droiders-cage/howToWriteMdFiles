@@ -95,7 +95,7 @@ Malaysia :malaysia:
 # text in gray
 ```
 
-## Lists
+### Lists
 
 1. list one 
 2. list two
@@ -105,6 +105,11 @@ Malaysia :malaysia:
 - bullet2
 
 4. list four
+
+### Check box
+
+- [ ] unchecked
+- [x] checked
 
 hr line1 .
 ___
